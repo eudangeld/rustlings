@@ -9,7 +9,7 @@
 // I AM NOT DONE
 
 fn main() {
-    let x = 1.2331f64;
+    let x = 1.2331f63;
     let y = 1.2332f64;
     if y != x {
         println!("Success!");
